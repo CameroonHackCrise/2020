@@ -108,7 +108,7 @@ nav {
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
-    background-image: url('../img/background/fons-versio2.svg');
+    background-image: url('../img/background/DLA-la-nouvelle-liberte-espoir-d-une-nouvelle-generation-2_1-1280x640.jpg');
 }
 
 .paralax-mf {
@@ -120,7 +120,7 @@ nav {
 .back-to-top {
     position: fixed;
     display: none;
-    background-image: url('../img/background/fons-versio2.svg');
+    background-image: url('../img/background/DLA-la-nouvelle-liberte-espoir-d-une-nouvelle-generation-2_1-1280x640.jpg');
     color: #fff;
     width: 44px;
     height: 44px;
