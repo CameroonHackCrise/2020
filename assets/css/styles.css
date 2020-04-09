@@ -67,7 +67,7 @@ nav {
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url('../img/background/YDE-hilton-classe-internationale-a-yaounde-2_1-1280x640.jpg');
+    background-image: url('../img/background/Monument de la réunification.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -120,7 +120,7 @@ nav {
 .back-to-top {
     position: fixed;
     display: none;
-    background-image: url('../img/background/YDE-hilton-classe-internationale-a-yaounde-2_1-1280x640.jpg');
+    background-image: url('../img/background/Monument de la réunification.jpg');
     color: #fff;
     width: 44px;
     height: 44px;
